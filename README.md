@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @Dokal5
-- 👀 I’m interested in pricing strategies, data analytics, and the intersection of technology and commerce.
-- 🌱 I’m currently learning advanced Python for data analysis, focusing on pricing models in various industries.
-- 💞️ I’m looking to collaborate on research projects or case studies related to pricing and commercial excellence.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: - ⚡ Fun fact: I once participated in a month-long workshop in Japan focusing on the art of pricing in traditional markets. I learned the age-old practice of 'Ichibai Kinsei,' where merchants adjust prices based on a customer's interest level, leading to a lively negotiation culture. This experience profoundly influenced my approach to modern pricing strategies.
+Working various of models for achieving commercial excellence 
